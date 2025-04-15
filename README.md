@@ -1,4 +1,4 @@
-# Wireshark
+# Penetration Testing Lab using Wireshark
 
 # Wireshark-Packet-Capture-Lab
 Capturing Telnet Session
